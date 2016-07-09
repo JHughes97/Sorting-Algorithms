@@ -18,7 +18,7 @@ void shellsort(int array[], int size){
 
 /**
 Shell's sort using Shell's gap sequence:
-n/2,n/4,n/8,...,1
+n/2,n/4,n/8,...
 */
 void shell(int array[], int size){
 	//Loop through gap sequence from n/2 ... 1
